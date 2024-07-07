@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.32.7
+registry.k8s.io/conformance:v1.30.2
