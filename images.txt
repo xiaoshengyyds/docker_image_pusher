@@ -1,5 +1,6 @@
-docker.io/calico/typha:v3.27.3
-docker.io/calico/kube-controllers:v3.27.3
-docker.io/calico/cni:v3.27.3
-docker.io/calico/pod2daemon-flexvol:v3.27.3
-docker.io/calico/node:v3.27.3
+yankovg/python3.8.2-ubuntu18.04
+honmashironeko/arl-docker-all
+mongo:4.0.27
+rabbitmq:3.8.19-management-alpine
+
+
