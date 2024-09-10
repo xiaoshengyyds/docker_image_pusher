@@ -1,1 +1,3 @@
-ki9mu/arl-ki9mu:v2.7.1
+elasticsearch:7.2.0
+kibana:7.2.0
+logstash:7.2.0
