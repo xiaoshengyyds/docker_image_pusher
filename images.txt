@@ -1,1 +1,1 @@
-taomujian/linbing
+ubuntu:18.04
