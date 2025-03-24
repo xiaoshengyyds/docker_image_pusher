@@ -1,4 +1,1 @@
-mongo:7.0.4
-redis:7.0.11
-autumn27/scopesentry:latest
-autumn27/scopesentry-scan:latest
+nginx:latest
